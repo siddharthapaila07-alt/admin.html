@@ -1,5 +1,6 @@
-# admin.html
-my front end work
-<html>
-</html>
-now complete
+ <html>
+   <head>
+     <title> admin page</title>
+   </head>
+   <body>
+ </html>
